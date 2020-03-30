@@ -47,7 +47,7 @@ Assume you have added the package reopository to the reader by following the gui
 
 Install Mono runtime on your reader with the following command on Linux terminal:
 
-```sudo dnf install node```
+```sudo dnf install mono```
 
 Please acknowledge the installation so that Node.js will be installed to your reader.
 
