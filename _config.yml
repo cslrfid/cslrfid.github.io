@@ -26,6 +26,7 @@ navbar-links:
     - Edge Device Set-up: "2020-03-26-cs463-edge-setup"
     - Build your IoT Stack: "2020-03-26-cs463-iot-stack"
     - Running C# and CSLibrary: "2020-03-26-cs463-mono-csharp"
+    - Edge-to-Cloud in 10 Minutes: "2022-02-13-cs463-edge-to-cloud"
   CS108:
     - Connect through USB on Linux: "2020-03-26-cs108-usb-linux" 
     - Save tag data to CSV Format: "2021-10-18-cs108-save-excel" 
