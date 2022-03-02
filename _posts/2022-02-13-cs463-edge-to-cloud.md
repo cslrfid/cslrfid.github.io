@@ -2,6 +2,7 @@
 layout: post
 title: CS463 Edge-to-Cloud in 10 Minutes
 subtitle: Your shortest path to a successful integration
+image: ./img/cs203x.png
 gh-repo: cslrfid/CS463-CS203X-Product-Downloads
 gh-badge: [star, fork, follow]
 tags: [cs463]
